@@ -1,34 +1,33 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Daníel Logi Matthíasson's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Daníel Logi Matthíasson
+Computer scientist, engineer, student, fitness enthusiast.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="voffi@live.com">voffi@live.com</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Completing my CS degree and working on saving my startup and creating more startups along with gaining competency with using AI
 
 ### Specialized in
 
+Making automatic sorting bins
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+LLMs, image classification, neural networks
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`August 2019-May 2023`
+__Reykjavík University, Reykjavík__
 
 `June 1661 - now`
 __Trinity College, Cambridge__
@@ -44,43 +43,41 @@ __Trinity College, Cambridge__
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
+`2022`
+SIF student sustainability award, Reykjavík University, Reykjavík, Iceland
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
+None as of yet
 
 ### Patents
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2023`
+Patent pending for automatic sorting bins
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2016`
+__Bæjarvinnan__, Eskifjörður
 
-- Warden
-- Minted coins
+`2017`
+__Bæjarvinnan__, Eskifjörður
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2018`
+__Bæjarvinnan__, Eskifjörður
+
+`2019`
+__Alcoa__, Reyðafjörður
+
+`2020`
+__Alcoa__, Reyðafjörður
+
+`2021`
+__Alcoa__, Reyðafjörður
+
+`2022`
+__Rannís research project__, Reykjavík University
 
 
 
